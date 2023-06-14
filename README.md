@@ -1,10 +1,6 @@
-# Angular Application Setup
-
-Create a new Angular application without routing and using CSS styles: `ng new {your-project-name}`
-
 # Storybook Setup
 
-To install Storybook, perform the following steps:
+To install Storybook, perform the following steps inside your angular application:
 
 1. In the root directory of your project, run the command npx storybook@latest init.
 2. During the setup process, choose "no" to ignore the creation of compodoc.
